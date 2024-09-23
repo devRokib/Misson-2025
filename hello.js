@@ -1,0 +1,10 @@
+console.log('hello bangladesh . good morning. ')
+console.log('hello , i am rakib . i live in narsingdi .' + 'and i want going to a rich country')
+console.log(52748)
+console.log(524.236)
+console.log("54564")
+console.log('my favorite number is ' + 9)
+console.log('9' + 9)
+console.log(10 + '9')
+console.log(10 + 15)
+
